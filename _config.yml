@@ -23,7 +23,7 @@ repository               : "SiyuanZhao-PA/SiyuanZhao-PA.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile1.jpg"
+  avatar           : "profile1.jpg"
   name             : "Siyuan Zhao"
   pronouns         : "He/him/his"  
   bio              : "PhD student in Public Administration and Policy at the University of Georgia"
