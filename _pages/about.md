@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Siyuan's homepage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Welcome
 
 I am **Siyuan Zhao**, a PhD student in Public Administration and Policy at the University of Georgia. Before joining UGA, I received my BA and MA from Peking University.
 
