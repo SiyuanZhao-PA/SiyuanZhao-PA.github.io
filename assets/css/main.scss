@@ -58,3 +58,14 @@
 .page__sidebar {
   width: 240px;        /* 默认约 260–280，你可以试 230/240/250 */
 }
+
+/* 调整左侧栏和右侧正文之间的间距 */
+.page__sidebar {
+  width: 240px;
+  margin-right: 3rem;   /* 这里就是“中间的空白”，可以再调大一点 */
+}
+
+.page__content {
+  max-width: 900px;
+  margin-left: 0;         /* 确保正文紧跟着我们设定的空白 */
+}
