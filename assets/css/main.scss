@@ -56,8 +56,9 @@
 
 /* 右侧正文区：加左侧内边距，强行拉开与sidebar的距离 */
 .page__content {
-  max-width: 1000px !important;   /* 可以之后再调 900–1100 之间 */
-  padding-left: 3rem !important;  /* 这一行就是你想要的“中间那块空白” */
+  width: calc(100% - 260px) !important;  /* sidebar 约 240–260px */
+  max-width: none !important;            /* 不再限制最大宽度 */
+  padding-left: 3rem !important;         /* 与左栏保持足够间距 */
 }
 
 /* --- Customize homepage/main page title --- */
