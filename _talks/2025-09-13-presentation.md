@@ -8,7 +8,6 @@ date: 2025-09-13
 location: "Vancouver, Canada"
 ---
 
-How can the administrative burden affect citizens’ policy compliance? Does this effect vary in groups with different individual-level characteristics?
-Do different kinds of encounters with bureaucrats moderate the effect on administrative burden? (Specifically, “face-to-face” and “digital” encounters in the Big Data era)
+
 
 
