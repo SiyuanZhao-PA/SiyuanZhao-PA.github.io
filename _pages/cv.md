@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<div class="page-body">
+
 ## Curriculum Vitae
 
 - 👉 [Download my full CV (PDF)]({{ base_path }}/files/Siyuan_CV_202511.pdf)
@@ -24,3 +26,5 @@ redirect_from:
 
 <p>If the PDF preview does not load, you can still
 <a href="{{ base_path }}/files/Siyuan_CV_202511.pdf">download it here</a>.</p>
+
+</div>
