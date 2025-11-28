@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<div class="page-body">
+<div class="page-body" markdown="1">
+
 
 ## Curriculum Vitae
 
