@@ -44,28 +44,18 @@
 
 /* === Custom layout overrides === */
 
-/* 整个页面的最大宽度（含左边栏 + 右边内容）*/
+/* 整个页面的最大宽度（含左栏+右栏） */
 .wrap {
-  max-width: 1300px;   /* 可以调成 1250 / 1350，根据你屏幕感觉微调 */
+  max-width: 1300px !important;
 }
 
-/* 右侧正文区域的最大宽度 */
-.page__content {
-  max-width: 900px;    /* 默认大概 720 左右，这里加宽一些 */
-}
-
-/* 左侧 sidebar 宽度（可选，看你要不要变窄一点） */
+/* 左侧 sidebar：稍微窄一点，并且把“间距”交给正文来控制 */
 .page__sidebar {
-  width: 240px;        /* 默认约 260–280，你可以试 230/240/250 */
+  width: 240px !important;
 }
 
-/* 调整左侧栏和右侧正文之间的间距 */
-.page__sidebar {
-  width: 240px;
-  margin-right: 3rem;   /* 这里就是“中间的空白”，可以再调大一点 */
-}
-
+/* 右侧正文区：加左侧内边距，强行拉开与sidebar的距离 */
 .page__content {
-  max-width: 900px;
-  margin-left: 0;         /* 确保正文紧跟着我们设定的空白 */
+  max-width: 1000px !important;   /* 可以之后再调 900–1100 之间 */
+  padding-left: 3rem !important;  /* 这一行就是你想要的“中间那块空白” */
 }
