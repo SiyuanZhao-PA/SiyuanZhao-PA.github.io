@@ -1,7 +1,7 @@
 var addressPoints = [
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7932754,
-    -122.3963589
+    "Administrative Burden, Bureaucratic Encounters and Policy Compliance<br />Conference Presentation, the 2025 APSA Annual Meeting; Vancouver, Canada",
+    49.2608724,
+    -123.113952
   ]
 ];
