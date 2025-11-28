@@ -56,9 +56,10 @@
 
 /* 右侧正文区：加左侧内边距，强行拉开与sidebar的距离 */
 .page__content {
-  width: calc(100% - 260px) !important;  /* sidebar 约 240–260px */
-  max-width: none !important;            /* 不再限制最大宽度 */
-  padding-left: 3rem !important;         /* 与左栏保持足够间距 */
+  .page__content {
+  max-width: 900px !important;    /* 比默认宽一点，别太窄 */
+  margin-left: 0 !important;      /* 关键：不要再额外往右推 */
+  padding-left: 3rem !important;/* 和侧栏之间留一点空白 */
 }
 
 /* --- Customize homepage/main page title --- */
