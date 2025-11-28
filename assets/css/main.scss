@@ -68,9 +68,9 @@
   margin-top: 1rem !important;
 }
 
-/* 让 Publications / Talks 这些 archive 页面也用同样的宽度和间距 */
-.layout--archive .archive {
-  max-width: 1150px !important;
-  margin-left: 0 !important;
-  padding-left: 6rem !important;
+/* 通用的正文容器，给需要统一排版的页面用 */
+.page-body {
+  max-width: 1150px;
+  margin-left: 0 !important; 
+  padding-left: 6rem;
 }
