@@ -67,3 +67,10 @@
   margin-bottom: 3rem !important;    /* 标题与正文之间多一点空隙 */
   margin-top: 1rem !important;
 }
+
+/* 让 Publications / Talks 这些 archive 页面也用同样的宽度和间距 */
+.layout--archive .archive {
+  max-width: 1150px !important;
+  margin-left: 0 !important;
+  padding-left: 6rem !important;
+}
