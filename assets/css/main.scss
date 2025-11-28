@@ -59,3 +59,10 @@
   max-width: 1000px !important;   /* 可以之后再调 900–1100 之间 */
   padding-left: 3rem !important;  /* 这一行就是你想要的“中间那块空白” */
 }
+
+/* --- Customize homepage/main page title --- */
+.page__title {
+  text-align: left !important;     /* 居中标题 */
+  margin-bottom: 3rem !important;    /* 标题与正文之间留更大的空间 */
+  margin-top: 1rem !important;       /*（可选）标题与顶部也稍微拉开 */
+}
