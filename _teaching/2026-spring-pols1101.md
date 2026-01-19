@@ -12,6 +12,6 @@ Here are the teaching materials for my breakout sections.
 
 ### 📄 Lecture Slides
 
-- Week 1 - [Introduction & Ice breakers (PDF)]({{ base_path }}/files/teaching/spring2026/1.pdf)
+- Week 1 - [Introduction & Ice breakers (PDF)]({{ base_path }}/files/teaching/spring2026/1a.pdf)
   
-- Week 2 - [Political Values & Democracy (PDF)]({{ base_path }}/files/teaching/spring2026/2.pdf)
+- Week 2 - [Political Values & Democracy (PDF)]({{ base_path }}/files/teaching/spring2026/2a.pdf)
