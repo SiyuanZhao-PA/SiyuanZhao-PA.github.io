@@ -15,3 +15,5 @@ Here are the teaching materials for my breakout sections.
 - Week 1 - [Introduction & Ice breakers (PDF)]({{ base_path }}/files/teaching/spring2026/1a.pdf)
   
 - Week 2 - [Political Values & Democracy (PDF)]({{ base_path }}/files/teaching/spring2026/2_a.pdf)
+
+- Week 3 - [Constitutional Foundations (PDF)]({{ base_path }}/files/teaching/spring2026/3. Constitutional Foundations.pdf)
