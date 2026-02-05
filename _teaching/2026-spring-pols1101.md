@@ -17,3 +17,7 @@ Here are the teaching materials for my breakout sections.
 - Week 2 - [Political Values & Democracy (PDF)]({{ base_path }}/files/teaching/spring2026/2_a.pdf)
 
 - Week 3 - [Constitutional Foundations (PDF)]({{ base_path }}/files/teaching/spring2026/3. Constitutional Foundations.pdf)
+
+- Week 4 - [Federalism, Civil Liberties & Mid-term 1 Review (PDF)]({{ base_path }}/files/teaching/spring2026/4. Federalism, Civil Liberties & Mid-term 1 Review.pdf)
+
+- Week 5 - [Civil Rights (PDF)]({{ base_path }}/files/teaching/spring2026/5. Civil Rights.pdf)
