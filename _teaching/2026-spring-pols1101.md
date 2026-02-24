@@ -24,4 +24,6 @@ Here are the teaching materials for my breakout sections.
 
 - Week 6 - [Congress (PDF)]({{ base_path }}/files/teaching/spring2026/6. Congress.pdf)
 
+- Week 7 - [Presidency (PDF)]({{ base_path }}/files/teaching/spring2026/7. Presidency.pdf)
+
 
