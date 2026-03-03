@@ -26,4 +26,6 @@ Here are the teaching materials for my breakout sections.
 
 - Week 7 - [Presidency (PDF)]({{ base_path }}/files/teaching/spring2026/7. Presidency.pdf)
 
+- Week 8 - [Bureaucracy & Mid-term review 2 (PDF)]({{ base_path }}/files/teaching/spring2026/8. Bureaucracy & Mid-term review 2.pdf)
+
 
