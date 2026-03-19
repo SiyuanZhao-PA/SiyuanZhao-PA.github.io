@@ -28,4 +28,8 @@ Here are the teaching materials for my breakout sections.
 
 - Week 8 - [Bureaucracy & Mid-term review 2 (PDF)]({{ base_path }}/files/teaching/spring2026/8. Bureaucracy & Mid-term review 2.pdf)
 
+- Week 9 - [Spring Break (no discussions)]
+
+- Week 10 - [Midterm test 2 (no discussions)]
+
 
