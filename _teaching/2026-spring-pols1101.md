@@ -32,4 +32,10 @@ Here are the teaching materials for my breakout sections.
 
 - Week 10 - [Midterm test 2 (no discussions)]
 
+- Week 11 - [Political parties & Interest groups (PDF)]({{ base_path }}/files/teaching/spring2026/11. Political parties & Interest groups.pdf)
+
+
+
+
+
 
