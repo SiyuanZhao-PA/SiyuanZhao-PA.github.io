@@ -34,6 +34,13 @@ Here are the teaching materials for my breakout sections.
 
 - Week 11 - [Political parties & Interest groups (PDF)]({{ base_path }}/files/teaching/spring2026/11. Political parties & Interest groups.pdf)
 
+- Week 12 - [Mass Media (PDF)]({{ base_path }}/files/teaching/spring2026/12. Mass media.pdf)
+
+
+
+
+
+
 
 
 
