@@ -36,7 +36,7 @@ Here are the teaching materials for my breakout sections.
 
 - Week 12 - [Mass Media (PDF)]({{ base_path }}/files/teaching/spring2026/12. Mass media.pdf)
 
-
+- Week 13 - [Public Opinion (PDF)]({{ base_path }}/files/teaching/spring2026/13. Public opinion.pdf)
 
 
 
