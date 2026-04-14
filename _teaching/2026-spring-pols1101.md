@@ -38,7 +38,7 @@ Here are the teaching materials for my breakout sections.
 
 - Week 13 - [Public Opinion (PDF)]({{ base_path }}/files/teaching/spring2026/13. Public opinion.pdf)
 
-
+- Week 14 - [Participation & Voting (PDF)]({{ base_path }}/files/teaching/spring2026/14. Participation & Voting.pdf)
 
 
 
